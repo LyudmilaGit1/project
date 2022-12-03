@@ -1,0 +1,15 @@
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.csproj.AssemblyReference.cache
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.AssemblyInfoInputs.cache
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.AssemblyInfo.cs
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.csproj.CoreCompileInputs.cache
+/workspaces/project/homework/ex3/bin/Debug/net7.0/ex3
+/workspaces/project/homework/ex3/bin/Debug/net7.0/ex3.deps.json
+/workspaces/project/homework/ex3/bin/Debug/net7.0/ex3.runtimeconfig.json
+/workspaces/project/homework/ex3/bin/Debug/net7.0/ex3.dll
+/workspaces/project/homework/ex3/bin/Debug/net7.0/ex3.pdb
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.dll
+/workspaces/project/homework/ex3/obj/Debug/net7.0/refint/ex3.dll
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.pdb
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ex3.genruntimeconfig.cache
+/workspaces/project/homework/ex3/obj/Debug/net7.0/ref/ex3.dll
