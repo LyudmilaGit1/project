@@ -1,0 +1,23 @@
+Напишите программу, которая на вход принимает 2 числа, и выдает какое число больше а какое меньше.
+а =5; b=7; max=7
+a=2; b=10; max=10
+a=-9; b=-3; max=-3
+
+Console.Write("Введите число: ");
+int num1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите число: ");
+int num2 = Convert.ToInt32(Console.ReadLine());
+if(num1>num2);
+{
+Console.WriteLine("num1- большее, num2- меньшее");
+}
+else
+if(num1<num2);
+{
+Console.WriteLine("num2- большее, num1- меньшее");
+}
+else
+if(num1==num2);
+{
+Console.WriteLine("num2=num1");
+}
