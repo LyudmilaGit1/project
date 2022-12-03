@@ -2,22 +2,19 @@
 
 Console.Write("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
-while(N>=2);
+
+while(N>2);
 {
-N=N-2;
-if(N%2==0)
+   if(N%2==0)
 {
- Console.WriteLine("N");
+ N=N-2;
 }
 else
 if(N%2>0)
 {    
    N=N-1;
 }
-{ 
 Console.WriteLine("N");
 }
 
 
-
-}
