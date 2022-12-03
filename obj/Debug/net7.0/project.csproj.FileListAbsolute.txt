@@ -1,0 +1,15 @@
+/workspaces/project/bin/Debug/net7.0/project
+/workspaces/project/bin/Debug/net7.0/project.deps.json
+/workspaces/project/bin/Debug/net7.0/project.runtimeconfig.json
+/workspaces/project/bin/Debug/net7.0/project.dll
+/workspaces/project/bin/Debug/net7.0/project.pdb
+/workspaces/project/obj/Debug/net7.0/project.csproj.AssemblyReference.cache
+/workspaces/project/obj/Debug/net7.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/project/obj/Debug/net7.0/project.AssemblyInfoInputs.cache
+/workspaces/project/obj/Debug/net7.0/project.AssemblyInfo.cs
+/workspaces/project/obj/Debug/net7.0/project.csproj.CoreCompileInputs.cache
+/workspaces/project/obj/Debug/net7.0/project.dll
+/workspaces/project/obj/Debug/net7.0/refint/project.dll
+/workspaces/project/obj/Debug/net7.0/project.pdb
+/workspaces/project/obj/Debug/net7.0/project.genruntimeconfig.cache
+/workspaces/project/obj/Debug/net7.0/ref/project.dll
