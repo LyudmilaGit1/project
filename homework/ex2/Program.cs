@@ -6,18 +6,10 @@ Console.Write("Введите число: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число: ");
 int num3 = Convert.ToInt32(Console.ReadLine());
-if(num1 > num2);
-if(num1 > num3)
+int max = num1;
+
+if(num2 > max)max=num2;
+if(num3 > max)max=num3;
 {
-Console.WriteLine("первое число максимальное");
-}
-else
-if(num3<num2) 
-{
-Console.WriteLine("второе число максимальное ");
-}
-else
-if(num3>num2)
-{
-Console.WriteLine("третье число максимальное ");
+Console.WriteLine(max);
 }
