@@ -1,0 +1,15 @@
+/workspaces/project/homework4/bin/Debug/net7.0/homework4
+/workspaces/project/homework4/bin/Debug/net7.0/homework4.deps.json
+/workspaces/project/homework4/bin/Debug/net7.0/homework4.runtimeconfig.json
+/workspaces/project/homework4/bin/Debug/net7.0/homework4.dll
+/workspaces/project/homework4/bin/Debug/net7.0/homework4.pdb
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.csproj.AssemblyReference.cache
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.AssemblyInfoInputs.cache
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.AssemblyInfo.cs
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.csproj.CoreCompileInputs.cache
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.dll
+/workspaces/project/homework4/obj/Debug/net7.0/refint/homework4.dll
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.pdb
+/workspaces/project/homework4/obj/Debug/net7.0/homework4.genruntimeconfig.cache
+/workspaces/project/homework4/obj/Debug/net7.0/ref/homework4.dll
