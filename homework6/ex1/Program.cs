@@ -3,7 +3,7 @@
 //0, 7, 8, -2, -2 -> 2
 
 //1, -7, 567, 89, 223-> 3
-int[] num={1,-3,-5,3,-6,-2};
+int[] num={1,-3,-5,3,-6,-2,5,3,2};
 int L=num.Length;
 int count=0;
 
@@ -12,7 +12,6 @@ for(int i=0;i<L;i++)
 if(num[i]>0)
 {
   count=count+1;  
-  
 }
 }
 Console.WriteLine(count);
