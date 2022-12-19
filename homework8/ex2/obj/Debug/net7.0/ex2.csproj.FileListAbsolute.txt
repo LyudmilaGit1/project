@@ -1,0 +1,15 @@
+/workspaces/project/homework8/ex2/bin/Debug/net7.0/ex2
+/workspaces/project/homework8/ex2/bin/Debug/net7.0/ex2.deps.json
+/workspaces/project/homework8/ex2/bin/Debug/net7.0/ex2.runtimeconfig.json
+/workspaces/project/homework8/ex2/bin/Debug/net7.0/ex2.dll
+/workspaces/project/homework8/ex2/bin/Debug/net7.0/ex2.pdb
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.csproj.AssemblyReference.cache
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.AssemblyInfoInputs.cache
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.AssemblyInfo.cs
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.csproj.CoreCompileInputs.cache
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.dll
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/refint/ex2.dll
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.pdb
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.genruntimeconfig.cache
+/workspaces/project/homework8/ex2/obj/Debug/net7.0/ref/ex2.dll
