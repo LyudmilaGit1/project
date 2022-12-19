@@ -48,16 +48,16 @@ for(int i=0;i<tabl.GetLength(0);i++)
         if(i==0) summ=tabl[i,j]+summ; 
         if(i==1) summ1=tabl[i,j]+summ1; 
         if(i==2) summ2=tabl[i,j]+summ2;
-            
+           
      }
      }
      Console.Write($"{summ},{summ1},{summ2},"); 
      Console.WriteLine();
-int min=summ;
+     if(summ<summ1 && summ<summ2)
+     Console.Write($"первая строка{summ}");
+     if(summ1<summ && summ1<summ2)
+     Console.Write($"вторая строка{summ1}");
+     if(summ2<summ && summ2<summ1)
+     Console.Write($"третья строка{summ2}");
 
-if(summ>summ1) min=summ1;
- if(summ2<summ1) min=summ2;
- int result=Math.Min(min,summ);
-
-  Console.Write($"{result}");   
    Console.WriteLine();
