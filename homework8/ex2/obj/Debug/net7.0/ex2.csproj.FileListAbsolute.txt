@@ -13,3 +13,18 @@
 /workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.pdb
 /workspaces/project/homework8/ex2/obj/Debug/net7.0/ex2.genruntimeconfig.cache
 /workspaces/project/homework8/ex2/obj/Debug/net7.0/ref/ex2.dll
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\bin\Debug\net7.0\ex2.exe
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\bin\Debug\net7.0\ex2.deps.json
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\bin\Debug\net7.0\ex2.runtimeconfig.json
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\bin\Debug\net7.0\ex2.dll
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\bin\Debug\net7.0\ex2.pdb
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.csproj.AssemblyReference.cache
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.AssemblyInfoInputs.cache
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.AssemblyInfo.cs
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.dll
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\refint\ex2.dll
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.pdb
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ex2.genruntimeconfig.cache
+C:\Users\lyudm\OneDrive\Рабочий стол\homework\project\homework8\ex2\obj\Debug\net7.0\ref\ex2.dll

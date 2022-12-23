@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\lyudm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/project/homework8/ex1/ex1.csproj",
+      "projectUniqueName": "C:\\Users\\lyudm\\OneDrive\\Рабочий стол\\homework\\project\\homework8\\ex1\\ex1.csproj",
       "projectName": "ex1",
-      "projectPath": "/workspaces/project/homework8/ex1/ex1.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/project/homework8/ex1/obj/",
+      "projectPath": "C:\\Users\\lyudm\\OneDrive\\Рабочий стол\\homework\\project\\homework8\\ex1\\ex1.csproj",
+      "packagesPath": "C:\\Users\\lyudm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lyudm\\OneDrive\\Рабочий стол\\homework\\project\\homework8\\ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lyudm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.100/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
